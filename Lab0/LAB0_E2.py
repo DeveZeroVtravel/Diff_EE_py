@@ -1,0 +1,13 @@
+import numpy as np
+a=np.linspace(7,15,num=5,dtype=int)
+print('a=',a)
+b=np.linspace(10,6,num=5,dtype=int)
+print('b=',b)
+c=np.linspace(15,0,num=4,dtype=int)
+print('c=',c)
+d=np.linspace(0,1,num=11)
+print('d=',d)
+e=np.linspace(-1,1,num=11)
+print('e=',e)
+f=np.linspace(1,2,num=11)
+print('f=',f)
